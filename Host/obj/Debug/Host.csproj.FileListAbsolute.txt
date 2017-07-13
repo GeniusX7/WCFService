@@ -1,0 +1,10 @@
+D:\testexsample\WCFService\Host\bin\Debug\Host.exe.config
+D:\testexsample\WCFService\Host\bin\Debug\Host.exe
+D:\testexsample\WCFService\Host\bin\Debug\Host.pdb
+D:\testexsample\WCFService\Host\bin\Debug\Service.dll
+D:\testexsample\WCFService\Host\bin\Debug\Service.Interface.dll
+D:\testexsample\WCFService\Host\bin\Debug\Service.Interface.pdb
+D:\testexsample\WCFService\Host\bin\Debug\Service.pdb
+D:\testexsample\WCFService\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\testexsample\WCFService\Host\obj\Debug\Host.exe
+D:\testexsample\WCFService\Host\obj\Debug\Host.pdb

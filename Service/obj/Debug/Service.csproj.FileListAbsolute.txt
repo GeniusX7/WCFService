@@ -1,0 +1,7 @@
+D:\testexsample\WCFService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\testexsample\WCFService\Service\obj\Debug\Service.dll
+D:\testexsample\WCFService\Service\obj\Debug\Service.pdb
+D:\testexsample\WCFService\Service\bin\Service.dll
+D:\testexsample\WCFService\Service\bin\Service.pdb
+D:\testexsample\WCFService\Service\bin\Service.Interface.dll
+D:\testexsample\WCFService\Service\bin\Service.Interface.pdb
